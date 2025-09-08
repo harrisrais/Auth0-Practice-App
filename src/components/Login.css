@@ -1,0 +1,32 @@
+.login-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.login-btn,
+.logout-btn {
+  border-radius: 8px;
+  border: none;
+  padding: 0.8em 1.6em;
+  font-size: 1.1em;
+  font-weight: 600;
+  cursor: pointer;
+  transition: transform 0.2s, background 0.3s;
+}
+
+.login-btn {
+  background: linear-gradient(90deg, #646cff, #535bf2);
+  color: white;
+}
+
+.logout-btn {
+  background: linear-gradient(90deg, #ff6a6a, #ff4a4a);
+  color: white;
+}
+
+.login-btn:hover,
+.logout-btn:hover {
+  transform: scale(1.05);
+  opacity: 0.9;
+}
