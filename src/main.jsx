@@ -7,8 +7,8 @@ import App from './App.jsx'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <Auth0Provider
-      domain="dev-xtlv0bot00dc0agx.us.auth0.com"
-      clientId="PsbhEWn9k1wbvZumXRVJ2dLTtTRVVvzd"
+      domain=""
+      clientId=""
       authorizationParams={{
         redirect_uri: window.location.origin
       }}
