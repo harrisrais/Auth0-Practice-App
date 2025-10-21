@@ -1,8 +1,3 @@
-Here’s a polished **GitHub README.md** version of your content with proper markdown formatting, section hierarchy, and code block syntax highlighting:
-
----
-
-````markdown
 # 🔐 Auth0-Practice-App: Secure React Authentication
 
 ## 📝 Description
