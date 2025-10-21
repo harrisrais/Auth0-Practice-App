@@ -1,4 +1,4 @@
-##Auth0-Practice-App: Secure React Authentication
+**Auth0-Practice-App: Secure React Authentication**
 
 Description
 
