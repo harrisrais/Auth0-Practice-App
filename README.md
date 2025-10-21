@@ -108,6 +108,5 @@ By the end of this project, you'll understand how to:
 * Securely handle tokens for API requests
 * Use Vite for a fast and efficient dev experience
 
----
 
 
